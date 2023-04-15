@@ -24,3 +24,12 @@ This is a project reconfigured and improved from my late projects in Control Sys
 
 IMAGES for classic home automation can be found below. 
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/ZenkieCasanova/Home-Automation-Systems/blob/main/SC1.jpg)
+
+![App Screenshot](https://github.com/ZenkieCasanova/Home-Automation-Systems/blob/main/SC2.jpg)
+
+![App Screenshot](https://github.com/ZenkieCasanova/Home-Automation-Systems/blob/main/SC3.jpg)
+
